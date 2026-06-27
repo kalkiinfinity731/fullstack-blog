@@ -1,3 +1,19 @@
+Intern Details 
+Intern ID: CITS3867 
+Name: Nandhini A 
+No. of Weeks: 4 Weeks 
+Project Name: Full-Stack Blog with Auth
+Project Scope:  Fullstack Blog
+
+# Aspect	Details
+Purpose:	Create, manage, and share blog posts with user authentication
+Target Users:	Bloggers, content creators, developers learning full-stack development
+Frontend:	React SPA with Vite, Tailwind CSS, React Router
+Backend:	Express API with SQLite, JWT auth, RESTful endpoints
+
+Core Features:	User registration/login, CRUD posts, dashboard, profile
+Planned Integrations	GitHub Pages (frontend), Render/Railway (backend), Cloud database
+
 # Fullstack Blog
 
 A full-stack blog application built with React, Vite, and Express. Features user authentication with JWT, RESTful API for posts management, SQLite database, and Tailwind CSS styling.
