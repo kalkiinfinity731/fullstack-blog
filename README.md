@@ -125,3 +125,14 @@ fullstack-blog/
 ## License
 
 ISC
+
+<img width="1887" height="955" alt="Image" src="https://github.com/user-attachments/assets/aea0248c-7084-4cf5-902c-3b1c068cd697" />
+
+<img width="1912" height="966" alt="Image" src="https://github.com/user-attachments/assets/55ccd345-7c2d-4ed9-87b4-a9b500186e5c" />
+
+<img width="1902" height="967" alt="Image" src="https://github.com/user-attachments/assets/91c3f8f2-df4b-49bb-ac65-d685682f4eee" />
+
+<img width="1911" height="962" alt="Image" src="https://github.com/user-attachments/assets/01a76b38-689a-41c8-aafd-d20be5bbb65e" />
+
+<img width="1912" height="971" alt="Image" src="https://github.com/user-attachments/assets/1271d6e4-b002-4642-9200-3c9e52a30c7f" />
+
