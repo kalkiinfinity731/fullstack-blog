@@ -126,7 +126,7 @@ fullstack-blog/
 
 ISC
 
-<video src="frontend/src/demo.mp4" controls width="600"></video>
+
 
 <img width="1887" height="955" alt="Image" src="https://github.com/user-attachments/assets/aea0248c-7084-4cf5-902c-3b1c068cd697" />
 
