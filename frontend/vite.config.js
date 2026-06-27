@@ -4,6 +4,7 @@ import { resolve } from "path";
 
 export default defineConfig({
   plugins: [react()],
+  base: "/fullstack-blog/",
   server: {
     proxy: {
       "/api": "http://localhost:5000"
